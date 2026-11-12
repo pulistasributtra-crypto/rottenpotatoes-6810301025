@@ -2,7 +2,7 @@
 
 Template repository for Lab L1 (310-2205 Software Engineering, semester 2/2569).
 
-![ci](https://github.com/<you>/<repo>/actions/workflows/ci.yml/badge.svg)
+[![ci](https://github.com/pulistasributtra-crypto/rottenpotatoes-6810301025/actions/workflows/ci.yml/badge.svg)](https://github.com/pulistasributtra-crypto/rottenpotatoes-6810301025/actions/workflows/ci.yml)
 
 แก้ `<you>/<repo>` ในบรรทัดบนเป็นชื่อ GitHub และชื่อ repository ของคุณ
 (Replace `<you>/<repo>` above with your GitHub user and repository name.)
